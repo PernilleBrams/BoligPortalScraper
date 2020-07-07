@@ -1,0 +1,302 @@
+{
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg-oest/id-5992452": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 69 m\u00b2",
+  "location": "Aalborg \u00d8st, Tornh\u00f8jvej",
+  "price": 6900
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg-oest/id-6004104": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 82 m\u00b2",
+  "location": "Aalborg \u00d8st, Tornh\u00f8jvej",
+  "price": 7450
+ },
+ "/lejebolig/dp/raekkehus-aalborg-soe/id-5982121": {
+  "title": "4 v\u00e6relses r\u00e6kkehus p\u00e5 96 m\u00b2",
+  "location": "Aalborg S\u00d8, Kastanjen",
+  "price": 8900
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008317": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 76 m\u00b2",
+  "location": "Aalborg, Skipper Clements Gade",
+  "price": 7685
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008293": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 78 m\u00b2",
+  "location": "Aalborg, Vestre Alle",
+  "price": 6200
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008279": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 50 m\u00b2",
+  "location": "Aalborg, Perikumvej",
+  "price": 5950
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-noerresundby/id-6008270": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 97 m\u00b2",
+  "location": "N\u00f8rresundby, Anders Nielsens Vej",
+  "price": 7800
+ },
+ "/lejebolig/dp/hus-villa-hals/id-6008233": {
+  "title": "4 v\u00e6relses villa p\u00e5 126 m\u00b2",
+  "location": "Hals, Lille Fjordgade",
+  "price": 10990
+ },
+ "/lejebolig/dp/hus-villa-hals/id-6008232": {
+  "title": "4 v\u00e6relses villa p\u00e5 126 m\u00b2",
+  "location": "Hals, Lille Fjordgade",
+  "price": 9990
+ },
+ "/lejebolig/dp/hus-villa-hals/id-6008230": {
+  "title": "4 v\u00e6relses villa p\u00e5 126 m\u00b2",
+  "location": "Hals, Lille Fjordgade",
+  "price": 8990
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-aalborg/id-6008203": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 150 m\u00b2",
+  "location": "Aalborg, Hadsundvej",
+  "price": 7590
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008193": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 74 m\u00b2",
+  "location": "Aalborg, Holbergsgade",
+  "price": 6175
+ },
+ "/lejebolig/dp/raekkehus-aalborg-soe/id-6008181": {
+  "title": "4 v\u00e6relses r\u00e6kkehus p\u00e5 121 m\u00b2",
+  "location": "Aalborg S\u00d8, Godske Lindenovs Vej",
+  "price": 9000
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-noerresundby/id-6008120": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 110 m\u00b2",
+  "location": "N\u00f8rresundby, \u00d8sterbrogade",
+  "price": 7495
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-noerresundby/id-6008116": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 88 m\u00b2",
+  "location": "N\u00f8rresundby, Sundby Brygge",
+  "price": 8500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008100": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 110 m\u00b2",
+  "location": "Aalborg, Boulevarden",
+  "price": 8500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008094": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 97 m\u00b2",
+  "location": "Aalborg, C.V. Jessens Gade",
+  "price": 7300
+ },
+ "/lejebolig/dp/raekkehus-aalborg/id-6008080": {
+  "title": "4 v\u00e6relses r\u00e6kkehus p\u00e5 98 m\u00b2",
+  "location": "Aalborg, Perikumvej",
+  "price": 7500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-aalborg/id-6008010": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 68 m\u00b2",
+  "location": "Aalborg, L\u00f8kkegade",
+  "price": 6230
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-vestbjerg/id-6008001": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 73 m\u00b2",
+  "location": "Vestbjerg, Svalegangen",
+  "price": 6650
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-noerresundby/id-6007967": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 85 m\u00b2",
+  "location": "N\u00f8rresundby, Vesterbrogade",
+  "price": 7995
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-5974427": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 88 m\u00b2",
+  "location": "K\u00f8benhavn SV, Linus Paulings Vej",
+  "price": 12995
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-5913016": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 90 m\u00b2",
+  "location": "K\u00f8benhavn SV, Pladehals All\u00e9",
+  "price": 13300
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-s/id-5997440": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 99 m\u00b2",
+  "location": "K\u00f8benhavn S, Strandlodsvej",
+  "price": 13500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-6008329": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 88 m\u00b2",
+  "location": "K\u00f8benhavn SV, Havneholmen",
+  "price": 14900
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-s/id-6008092": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 129 m\u00b2",
+  "location": "K\u00f8benhavn S, Strandlodsvej",
+  "price": 20000
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-s/id-6008091": {
+  "title": "5 v\u00e6relses lejlighed p\u00e5 132 m\u00b2",
+  "location": "K\u00f8benhavn S, Strandlodsvej",
+  "price": 19500
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-s/id-6008087": {
+  "title": "5 v\u00e6relses lejlighed p\u00e5 125 m\u00b2",
+  "location": "K\u00f8benhavn S, Strandlodsvej",
+  "price": 19500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-6008000": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 135 m\u00b2",
+  "location": "K\u00f8benhavn SV, Martin Luther Kings Vej",
+  "price": 28000
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-k/id-6007983": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 247 m\u00b2",
+  "location": "K\u00f8benhavn K, Store Strandstr\u00e6de",
+  "price": 35000
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-v/id-6007936": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 80 m\u00b2",
+  "location": "K\u00f8benhavn V, Kaalundsgade",
+  "price": 11335
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-k/id-6007933": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 117 m\u00b2",
+  "location": "K\u00f8benhavn K, Suhmsgade",
+  "price": 17250
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-oe/id-6007919": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 120 m\u00b2",
+  "location": "K\u00f8benhavn \u00d8, Emdrupvej",
+  "price": 18628
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-k/id-6007918": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 119 m\u00b2",
+  "location": "K\u00f8benhavn K, N\u00f8rre Farimagsgade",
+  "price": 16363
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-k/id-6007915": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 110 m\u00b2",
+  "location": "K\u00f8benhavn K, Store Kongensgade",
+  "price": 16245
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-6007899": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 85 m\u00b2",
+  "location": "K\u00f8benhavn SV, Vestre Teglgade",
+  "price": 12095
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-6007897": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 85 m\u00b2",
+  "location": "K\u00f8benhavn SV, Vestre Teglgade",
+  "price": 12395
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-oe/id-6007852": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 101 m\u00b2",
+  "location": "K\u00f8benhavn \u00d8, Oliem\u00f8llegade",
+  "price": 10908
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-v/id-6007805": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 107 m\u00b2",
+  "location": "K\u00f8benhavn V, Anker Heegaards Gade",
+  "price": 20600
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-s/id-6007734": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 137 m\u00b2",
+  "location": "K\u00f8benhavn S, Messinavej",
+  "price": 16555
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-n/id-6007728": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 114 m\u00b2",
+  "location": "K\u00f8benhavn N, Hyltebro",
+  "price": 18525
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-k/id-6007712": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 77 m\u00b2",
+  "location": "K\u00f8benhavn K, N\u00f8rre Voldgade",
+  "price": 14000
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-s/id-5955855": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 66 m\u00b2",
+  "location": "K\u00f8benhavn S, Richard Mortensens Vej",
+  "price": 11300
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-s/id-5955817": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 107 m\u00b2",
+  "location": "K\u00f8benhavn S, Richard Mortensens Vej",
+  "price": 14700
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-oe/id-6008215": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 55 m\u00b2",
+  "location": "K\u00f8benhavn \u00d8, S\u00e6bygade",
+  "price": 9000
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-nv/id-6008207": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 58 m\u00b2",
+  "location": "K\u00f8benhavn NV, Tagensvej",
+  "price": 10900
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-oe/id-6008114": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 89 m\u00b2",
+  "location": "K\u00f8benhavn \u00d8, Strandboulevarden",
+  "price": 14800
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-oe/id-6008113": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 89 m\u00b2",
+  "location": "K\u00f8benhavn \u00d8, Strandboulevarden",
+  "price": 16200
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-v/id-6008108": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 55 m\u00b2",
+  "location": "K\u00f8benhavn V, Abel Cathrines Gade",
+  "price": 11500
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-k/id-6008013": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 65 m\u00b2",
+  "location": "K\u00f8benhavn K, Toldbodgade",
+  "price": 14500
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-v/id-6007973": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 46 m\u00b2",
+  "location": "K\u00f8benhavn V, Enghavevej",
+  "price": 10200
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-s/id-6005473": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 79 m\u00b2",
+  "location": "K\u00f8benhavn S, Robert Jacobsens Vej",
+  "price": 13500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-5972485": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 112 m\u00b2",
+  "location": "K\u00f8benhavn SV, Flydedokken",
+  "price": 15400
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-s/id-5955825": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 102 m\u00b2",
+  "location": "K\u00f8benhavn S, Richard Mortensens Vej",
+  "price": 14200
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-s/id-6004372": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 74 m\u00b2",
+  "location": "K\u00f8benhavn S, \u00d8restads Boulevard",
+  "price": 13500
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-sv/id-5913020": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 123 m\u00b2",
+  "location": "K\u00f8benhavn SV, Pladehals All\u00e9",
+  "price": 16114
+ },
+ "/lejebolig/dp/3-vaerelses-lejlighed-koebenhavn-s/id-5997182": {
+  "title": "3 v\u00e6relses lejlighed p\u00e5 112 m\u00b2",
+  "location": "K\u00f8benhavn S, Sundby Parkvej",
+  "price": 15500
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-s/id-5934844": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 84 m\u00b2",
+  "location": "K\u00f8benhavn S, Hannemanns All\u00e9",
+  "price": 11400
+ },
+ "/lejebolig/dp/4-vaerelses-lejlighed-koebenhavn-k/id-5964227": {
+  "title": "4 v\u00e6relses lejlighed p\u00e5 167 m\u00b2",
+  "location": "K\u00f8benhavn K, K\u00f8bmagergade",
+  "price": 24050
+ },
+ "/lejebolig/dp/2-vaerelses-lejlighed-koebenhavn-k/id-5967634": {
+  "title": "2 v\u00e6relses lejlighed p\u00e5 75 m\u00b2",
+  "location": "K\u00f8benhavn K, Torvegade",
+  "price": 13750
+ }
+}
